@@ -1,6 +1,9 @@
+import Navbar from "./components/Navbar/Index";
+
+
 function App() {
   return (
-<h1> Página Principal </h1>
+    <Navbar />
   );
 }
 
